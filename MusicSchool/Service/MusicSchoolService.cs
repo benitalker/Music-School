@@ -11,6 +11,10 @@ namespace MusicSchool.Service
 {
     internal static class MusicSchoolService
     {
+        public static void Enosh()
+        {
+            MessageBox.Show("hahahhaahahahhahahaha");
+        }
         public static void RemoveStudent(string studentName)
         {
             try

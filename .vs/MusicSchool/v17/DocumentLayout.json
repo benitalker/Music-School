@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\benit\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\kodkod2\\C#\\MusicSchool\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AD936A1-B3D6-43BC-92A6-29C02BA1D1A8}|MusicSchool\\MusicSchool.csproj|c:\\users\\benit\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\kodkod2\\c#\\musicschool\\musicschool\\service\\musicschoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD936A1-B3D6-43BC-92A6-29C02BA1D1A8}|MusicSchool\\MusicSchool.csproj|solutionrelative:musicschool\\service\\musicschoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AD936A1-B3D6-43BC-92A6-29C02BA1D1A8}|MusicSchool\\MusicSchool.csproj|c:\\users\\benit\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\kodkod2\\c#\\musicschool\\musicschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD936A1-B3D6-43BC-92A6-29C02BA1D1A8}|MusicSchool\\MusicSchool.csproj|solutionrelative:musicschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\benit\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\kodkod2\\C#\\MusicSchool\\MusicSchool\\bin\\Debug\\net8.0-windows\\musicschool.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicSchool\\bin\\Debug\\net8.0-windows\\musicschool.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AD936A1-B3D6-43BC-92A6-29C02BA1D1A8}|MusicSchool\\MusicSchool.csproj|c:\\users\\benit\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\kodkod2\\c#\\musicschool\\musicschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5AD936A1-B3D6-43BC-92A6-29C02BA1D1A8}|MusicSchool\\MusicSchool.csproj|solutionrelative:musicschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\benit\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\kodkod2\\C#\\MusicSchool\\MusicSchool\\Service\\MusicSchoolService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicSchool\\Service\\MusicSchoolService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\benit\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\kodkod2\\C#\\MusicSchool\\MusicSchool\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicSchool\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\benit\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\kodkod2\\C#\\MusicSchool\\musicschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:musicschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 176,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "musicschool.xml",
               "DocumentMoniker": "C:\\Users\\benit\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\kodkod2\\C#\\MusicSchool\\MusicSchool\\bin\\Debug\\net8.0-windows\\musicschool.xml",
               "RelativeDocumentMoniker": "MusicSchool\\bin\\Debug\\net8.0-windows\\musicschool.xml",
@@ -43,20 +43,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MusicSchoolService.cs",
               "DocumentMoniker": "C:\\Users\\benit\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\kodkod2\\C#\\MusicSchool\\MusicSchool\\Service\\MusicSchoolService.cs",
               "RelativeDocumentMoniker": "MusicSchool\\Service\\MusicSchoolService.cs",
               "ToolTip": "C:\\Users\\benit\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\kodkod2\\C#\\MusicSchool\\MusicSchool\\Service\\MusicSchoolService.cs",
               "RelativeToolTip": "MusicSchool\\Service\\MusicSchoolService.cs",
-              "ViewState": "AQIAAIcAAAAAAAAAAAAqwJMAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T08:30:02.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T08:30:02.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\benit\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\kodkod2\\C#\\MusicSchool\\MusicSchool\\Form1.cs",
               "RelativeDocumentMoniker": "MusicSchool\\Form1.cs",
